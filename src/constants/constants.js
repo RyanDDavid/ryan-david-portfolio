@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Project 1 : Facebook Clone',
+    title: 'Project 1 : Reddit Clone',
     description: "Using React, Javascript, CSS, UI Material, I built a Facebook Clone. The clone has the Post component, the Feed component, The header component, Widgets component, The Reels component. User identification, and is run trow firebase.",
-      image: '/images/facebook1.png',
+      image: '/images/reddit.1.webp',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/jhovany-es/reddit-1',
+    visit: 'https://reddit-1.vercel.app/',
     id: 0,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "Twitter Clone was built wiht React, has user identification, create a user. It has a Post component, a Feed component, Header component.",
       image: '/images/twitter1.webp',
       tags: ['React', 'WebRTC'],
-    source: 'https://github.com/jhovany-es/twitter-clone.git',
-    visit: 'https://google.com',
+    source: 'https://github.com/jhovany-es/twitter-3-clone',
+    visit: 'https://twitter-3-clone.vercel.app/',
     id: 2,
   },
   {

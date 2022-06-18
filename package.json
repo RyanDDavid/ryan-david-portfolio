@@ -8,7 +8,9 @@
     "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build && next export",
+    "export": "next export",
     "start": "next start"
+
   },
   "dependencies": {
     "next": "10.2.3",
