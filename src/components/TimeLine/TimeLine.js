@@ -46,13 +46,13 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I have 2+ years of experience as a React developer with hands-on experience identifying web-based user
-       interactions along with designing and implementing highly responsive UI components by implementing React 
-       concepts. Proficient in translating layouts and wireframes into high-quality code, and writing application
-        interface code through Javascript and ReactJS workflows. Expert in monitoring and maintaining frontend 
-        performance and troubleshooting and debugging the same to bolster overall performance. I lived in New York 
-        for 15 years. 
-      Right now I am living in Pereira Colombia. I can speak and write very well in both English and Spanish.
+      I have 2+ years of experience as a React developer with hands-on experience identifying 
+      web-based user interactions along with designing and implementing highly responsive UI 
+      components by implementing React concepts. Proficient in translating layouts and wireframes 
+      into high-quality code, and writing application interface code through Javascript and ReactJS workflows.
+       Expert in monitoring and maintaining frontend performance and troubleshooting and debugging the same to 
+       bolster overall performance. In my proyects i clone  websites like Amazon, Twitter, Airbnb and Reddit. 
+       using React js, Next.js, supabase, Heroicons. iand implementing user authentication.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
