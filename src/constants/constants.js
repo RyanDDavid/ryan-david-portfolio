@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Project 1 : Reddit Clone',
-    description: "Using React, Javascript, CSS, UI Material, I built a Facebook Clone. The clone has the Post component, the Feed component, The header component, Widgets component, The Reels component. User identification, and is run trow firebase.",
+    description: "The Reddit Clone was built using Next.js, React, Supabase, SQL, GraphQL,  TypeScript, Tailwind, Heroicons. this website uses  User identification, and is run in supabase .",
       image: '/images/reddit.1.webp',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/jhovany-es/reddit-1',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Twitter Clone',
-    description: "Twitter Clone was built wiht React, has user identification, create a user. It has a Post component, a Feed component, Header component.",
+    description: "Twitter Clone was built wiht Next.js,  Sanity CMS, Typescript, Tailwind css and NextAuth. has user identification, create a user. It has a Post component, a Feed component, Header component. This is the link to this clone that i uploaded in vercel: https://twitter-3-clone.vercel.app/",
       image: '/images/twitter1.webp',
       tags: ['React', 'WebRTC'],
     source: 'https://github.com/jhovany-es/twitter-3-clone',
@@ -28,11 +28,11 @@ export const projects = [
   },
   {
     title: 'Airbnb Clone',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "The Airbnb Clone was built with Next.js, React, SQL, Supabase, stepzen, GraphQL, Typescript, Tailwind, Heroicons. rearside rendering. this is the link to the clone that i uploaded in vercel: https://airbnb-clone-3-iota.vercel.app/",
     image: '/images/airbnb1.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://github.com/jhovany-es/airbnb-clone2.git',
-    visit: 'https://jhovany-es.github.io/Airbnb-Clone/',
+    source: 'https://github.com/jhovany-es/airbnb-clone-3',
+    visit: 'https://airbnb-clone-3-iota.vercel.app/',
     id: 3,
   },
 ];
