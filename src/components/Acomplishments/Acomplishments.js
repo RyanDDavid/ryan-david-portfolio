@@ -9,7 +9,7 @@ const data = [
   { number: 2, text: 'Certificate: Google System Administration and IT Infrastructure Services '},
   { number: 3, text: 'Certificate: IBM Cybersecurity Compliance Framework & System Administration '},
   { number: 4, text: 'Certificate: Google IT Automation with Python'},
-  { number: 4, text: 'Have Clone 4 of the best Companies websites.'},
+  { number: 5, text: 'Have Clone 4 of the best Companies websites.'},
 ];
 
 const Acomplishments = () => (
