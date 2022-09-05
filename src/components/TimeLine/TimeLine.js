@@ -46,13 +46,15 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I have 2+ years of experience as a React developer with hands-on experience identifying 
-      web-based user interactions along with designing and implementing highly responsive UI 
-      components by implementing React concepts. Proficient in translating layouts and wireframes 
-      into high-quality code, and writing application interface code through Javascript and ReactJS workflows.
-       Expert in monitoring and maintaining frontend performance and troubleshooting and debugging the same to 
-       bolster overall performance. In my proyects i clone  websites like Amazon, Twitter, Airbnb and Reddit. 
-       using React js, Next.js, supabase, Heroicons. iand implementing user authentication.
+      Motivated Junior System Administration graduate. I completed a Network Administration and Information Security associate 
+      degree in Laguardia Community college. Finish 2 Certificate's with Google and IBM in System Administration. 
+      Skilled in Linux shell scripts(RHEL) commands. In Python able to automate common system administration tasks, 
+      troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. 
+      Bringing an in-depth understanding of how to configure devices, networks and operating systems. Able to adapt easily to changing software,
+       processes and procedures. History of maintaining equipment, updating software and handling network security with an organized 
+       and systematic focus. Strong multitasker with excellent communication and planning abilities. I'm eager to contribute developed 
+       knowledge in System Administration role.  Adaptable and driven with strong work ethic and ability to thrive in team-based 
+      or individually motivated settings. Multilingual and fluent in Spanish and English, offering solid comprehension of cultural diversity.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

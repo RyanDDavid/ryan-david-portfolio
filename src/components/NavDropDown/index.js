@@ -21,7 +21,8 @@ const NavDropDown = (props) => (
       </DropDownIcon>
       <DropDownTextContainer>
         <DropDownItemTitle>Email</DropDownItemTitle>
-        <DropDownItemDesc>If you want to talk jus send a message and I'll get back</DropDownItemDesc>
+        <DropDownItemDesc>If you want to reach me just send a message and I'll get back to you.
+        </DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
     <DropDownItem href="#" target="_blank" rel="noreferrer">

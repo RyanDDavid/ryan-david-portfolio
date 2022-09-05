@@ -14,7 +14,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Front End Developer / Back End Developer / Javascript / React
+          System Administrator /PYthon  / Linux / Java / ReactJS
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
