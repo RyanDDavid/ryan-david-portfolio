@@ -40,8 +40,9 @@ export const projects = [
 export const TimeLineData = [
   { year: 2016, text: 'Started my coding carrear at LaGuardia Community College', },
   { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2020, text: 'Graduated from LaGuardia Community College with a Computer Operationa degree', },
-  { year: 2021, text: 'Worked as a freelance developer', },
+  { year: 2022, text: 'Graduated from LaGuardia Community College with a Computer Operationa degree', },
+  { year: 2022, text: 'IBM Certificate:System Administration and IT Infrastructure Services', },
+  { year: 2022, text: 'Google Certificate:IBM Cybersecurity Compliance Framework & System Administration',},
  ,
 
 ];

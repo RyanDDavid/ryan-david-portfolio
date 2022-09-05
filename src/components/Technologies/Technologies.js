@@ -8,8 +8,9 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+    In Python able to automate common system administration tasks,
+     troubleshoot and debug complex problems, and apply automation 
+     at scale by using configuration management and the Cloud.
     </SectionText>
     <List>
       <ListItem>
@@ -17,11 +18,11 @@ const Technologies = () =>  (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>System Administrator</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js, Next.js, <br />
-            React Native.
+            Python, Lynux(RHEL) <br />
+.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -45,8 +46,8 @@ const Technologies = () =>  (
           <ListTitle>Database</ListTitle>
           <ListParagraph>
 
-            Firebase,<br />
-            Supabase.
+            SQL<br />
+            
           </ListParagraph>
         </ListContainer>
       </ListItem>
