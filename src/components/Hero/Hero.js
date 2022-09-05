@@ -14,7 +14,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          System Administrator /PYthon  / Linux / Java / ReactJS
+          System Administrator / Python  / Linux / Java / ReactJS / Javascript
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>

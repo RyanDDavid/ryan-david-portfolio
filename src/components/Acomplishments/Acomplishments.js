@@ -4,8 +4,12 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 21, text: 'Have Clone 21 of the best Companies websites.'},
   
+  {Graduated, text: 'Graduated with a Associate Degree in Network administration and System security'},
+  {Certificate, text: 'Certificate: Google System Administration and IT Infrastructure Services '},
+  {Certificate, text: 'Certificate: IBM Cybersecurity Compliance Framework & System Administration '},
+  {Certificate, text: 'Certificate: Google IT Automation with Python'},
+  { number: 4, text: 'Have Clone 4 of the best Companies websites.'},
 ];
 
 const Acomplishments = () => (
