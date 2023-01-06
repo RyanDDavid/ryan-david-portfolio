@@ -8,6 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
+    Im a Information Security Analyst
     In Python able to automate common system administration tasks,
      troubleshoot and debug complex problems, and apply automation 
      at scale by using configuration management and the Cloud.
@@ -21,7 +22,7 @@ const Technologies = () =>  (
           <ListTitle>System Administrator</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            Python, Lynux(RHEL) <br />
+            Python, Lynux(Kali, Red Hat) <br />
 .
           </ListParagraph>
         </ListContainer>
@@ -47,7 +48,7 @@ const Technologies = () =>  (
           <ListTitle>Database</ListTitle>
           <ListParagraph>
 
-            SQL<br />
+            SQL(MySQL, PostgreSQL)<br />
             
           </ListParagraph>
         </ListContainer>
