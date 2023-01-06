@@ -14,8 +14,8 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Information Security Analyst/ Kali Linux /
-            System Administrator / Python /  MySQL
+          Information Security Analyst/ Kali Linux /Penetration Testing
+            Ethical Hacking /System Administrator / Python /  MySQL
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
